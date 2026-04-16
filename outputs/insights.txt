@@ -1,1 +1,4 @@
-
+Top Revenue Day: Saturday
+Peak Order Hour: 7 PM
+Top Category: Classic
+Best Selling Pizza: BBQ Chicken
