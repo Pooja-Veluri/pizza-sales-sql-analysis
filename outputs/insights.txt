@@ -1,4 +1,4 @@
-Top Revenue Day: Saturday
-Peak Order Hour: 7 PM
+Top Revenue Day: Friday
+Peak Order Hour: 12 PM
 Top Category: Classic
-Best Selling Pizza: BBQ Chicken
+Best Selling Pizza: Thai Chicken Pizza
