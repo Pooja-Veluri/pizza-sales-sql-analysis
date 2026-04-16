@@ -1,45 +1,51 @@
-# pizza-sales-sql-analysis
-
 # 🍕 Pizza Sales SQL Analysis
+
+## 📌 Problem Statement
+
+A pizza business wants to analyze its sales data to understand revenue patterns, customer preferences, and product performance.
+The goal is to derive actionable insights that can help improve sales strategy and business decisions.
+
+---
 
 ## 📊 Project Overview
 
-This project analyzes pizza sales data using SQL to uncover key business insights such as revenue trends, top-selling pizzas, and customer ordering behavior.
+This project uses SQL to analyze pizza sales data and uncover key business insights such as revenue trends, best-selling products, and customer ordering behavior.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 * SQL (MySQL / SQL Server)
-* Excel
-* GitHub
+* Excel (data handling)
+* GitHub (version control)
 
 ---
 
 ## 📂 Project Structure
 
 * **dataset/** → Raw CSV data files
-* **sql/** → SQL queries (basic + advanced analysis)
-* **outputs/** → Business insights
+* **sql/** → SQL queries (basic & advanced analysis)
+* **outputs/** → Derived business insights
 
 ---
 
-## 🧠 Business Questions Answered
+## 🧠 Business Questions Solved
 
 * What is the total revenue generated?
-* Which pizza is the best seller?
-* What are peak order hours?
-* Which category contributes most to revenue?
-* What is the average order value?
+* Which pizzas contribute the most to revenue?
+* What are the peak order hours?
+* Which pizza categories perform best?
+* What is the average order value (AOV)?
+* Which products fall in the top 20% revenue bracket?
 
 ---
 
 ## 📈 Key Insights
 
-* Peak orders occur during afternoon hours
-* Large-size pizzas generate highest revenue
-* Classic category dominates overall sales
-* Friday sales are higher than any other days
+* 📌 Peak order volume occurs during afternoon and evening hours, indicating strong demand during meal times
+* 📌 Large-size pizzas contribute the highest revenue, making them the most profitable segment
+* 📌 Classic category dominates total sales, showing consistent customer preference
+* 📌 Friday generates the highest number of orders, suggesting strong weekend demand trends
 
 ---
 
@@ -53,11 +59,22 @@ This project analyzes pizza sales data using SQL to uncover key business insight
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Project
 
-1. Import CSV files from `dataset/`
-2. Run `schema.sql` to create tables
-3. Execute queries from `analysis.sql` and `advanced_analysis.sql`
+1. Import CSV files from the `dataset/` folder into your SQL database
+2. Execute `schema.sql` to create tables
+3. Run queries from:
+
+   * `analysis.sql`
+   * `advanced_analysis.sql`
+
+---
+
+## 📊 Future Improvements
+
+* Build an interactive dashboard using Power BI or Tableau
+* Add trend visualizations for better business understanding
+* Optimize queries for large-scale datasets
 
 ---
 
