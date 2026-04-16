@@ -2,3 +2,4 @@ Top Revenue Day: Friday
 Peak Order Hour: 12 PM
 Top Category: Classic
 Best Selling Pizza: Thai Chicken Pizza
+Least ordered pizza: The Brie Carre Pizza
